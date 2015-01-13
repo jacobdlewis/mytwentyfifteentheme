@@ -1,0 +1,13 @@
+
+ul {
+	text-align: center;
+}
+.main {
+	background-color: #F1F1F1;
+}
+
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 20px;
+}
