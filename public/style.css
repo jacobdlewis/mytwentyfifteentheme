@@ -1,12 +1,26 @@
 
-ul {
-	text-align: center;
-}
+
 .main {
 	background-color: #F1F1F1;
 }
-
-li {
+.post {
+	background-color: #FFF;
+}
+.post__head-img {
+	background-image: url("https://photos.travelblog.org/Photos/191092/609045/f/6082778-Pretty_Pier-0.jpg");
+	background-repeat: no-repeat;
+	background-size:  100%;
+	background-position: 50% 50%;
+	height: 300px;
+}
+.post__footer {
+	background-color: #F7F7F7;
+	padding: 20px 0;
+}
+.post__footer ul {
+	text-align: center;
+}
+.post__footer li {
 	list-style-type: none;
 	display: inline;
 	padding: 0 20px;
